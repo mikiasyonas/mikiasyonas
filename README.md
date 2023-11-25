@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/mikiasyonas](github.com/mikiasyonas)
 
-- 💬 Ask me about **ReactJs, Typescript, Graphql, Websocket technology**
+- 💬 Ask me about **Javascript, Nodejs, ReactJs, Typescript, Graphql, Websocket technology**
 
 - 📫 How to reach me **mikiasyonas512@gmail.com, +251984792253**
 
