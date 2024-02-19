@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mikias Yonas</h1>
 <h3 align="center">A passionate javascript developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on **A fullstack project that facilitates the taxi payment process digitally**
+- 🔭 I’m currently working on **A fullstack project that facilitates the taxi payment process digitally to learn blockchain technology**
 
 - 🌱 I’m currently learning **Blockchain technologies(Web3),**
 
-- 👯 I’m looking to collaborate on **Any web app projects and Web3**
+- 👯 I’m looking to collaborate on **Any web app projects**
 
 - 🤝 I’m looking for help with **Learning blockchain technology**
 
 - 👨‍💻 All of my projects are available at [github.com/mikiasyonas](github.com/mikiasyonas)
 
-- 💬 Ask me about **Javascript, Nodejs, ReactJs, Typescript, Graphql, Websocket technology**
+- 💬 Ask me about **Javascript, Nodejs, ReactJs, Typescript, Graphql, Websocket technology, design patterns, Next.js**
 
 - 📫 How to reach me **mikiasyonas512@gmail.com, +251984792253**
 
