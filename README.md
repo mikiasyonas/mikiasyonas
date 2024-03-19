@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikias Yonas</h1>
 <h3 align="center">A passionate javascript developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on **A fullstack project that facilitates the taxi payment process digitally to learn blockchain technology**
+- 🔭 I’m currently working on **A fullstack project related to Web3 as a practice to enhance my Web3 skill**
 
 - 🌱 I’m currently learning **Blockchain technologies(Web3),**
 
